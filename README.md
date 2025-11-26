@@ -1,4 +1,4 @@
-# [Venky Key-Tube](https://github.com/438-venkatesh/Venky-KeTube) 
+# [V KeyTube](https://github.com/sundarss143/V-Keytube/) 
 
 
 ![edited home](https://github.com/Akshaykeenath/MERN_video_streamer/assets/47239801/51e6c54e-ac70-45e2-9a93-da8a37cd756f)
@@ -31,7 +31,7 @@ Welcome to the MERN Video Streamer, a comprehensive video streaming application 
 
 **HELPFUL LINKS**
 
-- View [Github Repository](https://github.com/438-venkatesh/Venky-KeTube)
+- View [Github Repository](https://github.com/sundarss143/V-Keytube/)
 - View [Live Demo](https://venky-ketube.vercel.app/)
 
 ## Table of Contents
@@ -68,27 +68,12 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 
-- [Live Preview](https://ketube.netlify.app/)
-- [Support](https://www.linkedin.com/in/akshaykeenath/)
-- Issues: [Github Issues Page](https://github.com/Akshaykeenath/MERN_video_streamer/issues)
+
+
+- Issues: [Github Issues Page](https://github.com/sundarss143/V-Keytube/issues)
 
 
 ## Support and suggessions
 
 If you find this project helpful or would like to support its development, consider becoming a sponsor on GitHub!
 
-
-
-If you have any suggestions or feedback, feel free to contact me:
-
-- **LinkedIn:** [Venkatesh Ponnuru](https://www.linkedin.com/in/venkatesh-ponnuru-797913279/)
-- **Instagram:** [Venkatesh Ponnuru](https://www.instagram.com/venky_isalwaysbest)
-
-Your support and suggestions are highly appreciated!
-
-
-##### Contact Me
-
-
- LinkedIn: <https://www.linkedin.com/in/venkatesh-ponnuru-797913279/><br>
- Instagram: <https://www.instagram.com/venky_isalwaysbest>
